@@ -6,8 +6,9 @@
      <div>
       <h4>History</h4>
         <ul>
-        <li>Last Received: {{ lastReceived }}</li>
-        <li> History: {{ history }}</li>
+          <li>Last Received: {{ lastReceived }}</li>
+          <li> History: {{ history }}</li>
+        </ul>
      </div>
  </div>
 </template>
